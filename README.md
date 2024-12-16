@@ -2,6 +2,8 @@
 
 ## 🗳️ Project Overview
 This project implements an anonymous voting system leveraging Zero Knowledge Proof technology with Circom.
+It explores the implementation of a private and verifiable vote selection mechanism using Circom. This is a key component for building privacy-preserving voting protocols. 
+A voter can commit to a single candidate selection without revealing their choice, ensuring the integrity and validity of their vote.
 
 ## 📘 Documentation
 
